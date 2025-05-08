@@ -32,7 +32,7 @@ We understand the sensitivity of business case information 🔒. This tool is de
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone git@github.com:siegstedt/use-case-structure.git
     ```
 2.  **Install dependencies:**
     ```bash
